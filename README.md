@@ -1,4 +1,4 @@
-# Data Wrangling and Data Anylysis of Kaggle Dataset 
+# Data Wrangling and Data Analysis of Kaggle Dataset 
 
 ## 使用資料集
 <a href="https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps" title="Title">
