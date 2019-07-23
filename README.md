@@ -2,10 +2,9 @@
 
 ## 使用資料集
 <a href="https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps" title="Title">
-Kaggle dataset: Mobile App Store ( 7200 apps)</a>  
+Kaggle dataset: Mobile App Store ( 7200 apps)</a>      
 
-
-##使用技術 & 套件
+##使用技術/套件
 * python3
 * pandas
 * numpy
